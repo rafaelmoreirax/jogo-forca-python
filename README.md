@@ -36,6 +36,8 @@ python3 forca.py
 ---
 
 ## forca.py
+
+```
 import random
 
 def escolher_palavra():
@@ -83,7 +85,7 @@ else:
     print(f"Fim de jogo! A palavra era: {palavra}")
 if name == "main":
 jogar()
-
+```
 
 ---
 
